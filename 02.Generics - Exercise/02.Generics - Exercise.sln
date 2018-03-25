@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomListSorter", "08.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CustomListIterator", "09.CustomListIterator\09.CustomListIterator.csproj", "{A19854B3-7A3C-44E3-B879-A2B46BC73F6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Tuple", "10.Tuple\10.Tuple.csproj", "{2977F01D-FC7D-40D9-B6B3-E5CDE3047D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A19854B3-7A3C-44E3-B879-A2B46BC73F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19854B3-7A3C-44E3-B879-A2B46BC73F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19854B3-7A3C-44E3-B879-A2B46BC73F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2977F01D-FC7D-40D9-B6B3-E5CDE3047D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2977F01D-FC7D-40D9-B6B3-E5CDE3047D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2977F01D-FC7D-40D9-B6B3-E5CDE3047D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2977F01D-FC7D-40D9-B6B3-E5CDE3047D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
