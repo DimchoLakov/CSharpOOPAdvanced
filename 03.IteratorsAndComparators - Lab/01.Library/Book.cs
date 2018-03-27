@@ -13,5 +13,5 @@ public class Book
 
     public int Year { get; set; }
 
-    public ICollection<string> Authos { get; set; }
+    public IReadOnlyCollection<string> Authos { get; set; }
 }
