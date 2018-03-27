@@ -13,5 +13,5 @@ public class Book
 
     public int Year { get; private set; }
 
-    public IReadOnlyList<string> Authors { get; private set; }
+    public IReadOnlyCollection<string> Authors { get; private set; }
 }

@@ -8,7 +8,7 @@ public class Library : IEnumerable<Book>
         this.Books = books;
     }
 
-    public ICollection<Book> Books { get; set; }
+    public IReadOnlyList<Book> Books { get; private set; }
 
     public IEnumerator<Book> GetEnumerator()
     {
