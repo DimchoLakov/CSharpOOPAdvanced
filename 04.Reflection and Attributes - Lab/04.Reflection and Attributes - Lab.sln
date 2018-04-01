@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Collector", "04.Collecto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CreateAttribute", "05.CreateAttribute\05.CreateAttribute.csproj", "{282A3224-2F35-4899-9630-52FF182EF948}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Tracker", "06.Tracker\06.Tracker.csproj", "{8A00A96B-5F70-493A-A32B-8FD0568375D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{282A3224-2F35-4899-9630-52FF182EF948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{282A3224-2F35-4899-9630-52FF182EF948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{282A3224-2F35-4899-9630-52FF182EF948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A00A96B-5F70-493A-A32B-8FD0568375D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A00A96B-5F70-493A-A32B-8FD0568375D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A00A96B-5F70-493A-A32B-8FD0568375D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A00A96B-5F70-493A-A32B-8FD0568375D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
