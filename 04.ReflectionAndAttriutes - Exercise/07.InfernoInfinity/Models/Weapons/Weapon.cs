@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 
+[MyCustom("Pesho", 3, "Used for C# OOP Advanced Course - Enumerations and Attributes.", new[] { "Pesho", "Svetlio" })]
 public abstract class Weapon : IWeapon
 {
     private int minDamage;

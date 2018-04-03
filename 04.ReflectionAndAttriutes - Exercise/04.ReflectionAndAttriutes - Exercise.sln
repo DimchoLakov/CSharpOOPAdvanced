@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-05.BarraksWars", "03.Bar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TrafficLights", "06.TrafficLights\06.TrafficLights.csproj", "{DDC75879-8D2D-4225-AC42-DEB9537EB662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.InfernoInfinity", "07.InfernoInfinity\07.InfernoInfinity.csproj", "{A65B5CB7-C601-4190-9ACA-3DB91B437D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-08.InfernoInfinity", "07.InfernoInfinity\07-08.InfernoInfinity.csproj", "{A65B5CB7-C601-4190-9ACA-3DB91B437D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
