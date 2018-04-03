@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.HarvestingFields", "01.H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BlackBoxInteger", "02.BlackBoxInteger\02.BlackBoxInteger.csproj", "{F7C387EC-9DA5-4F9D-8CBC-CCCE0846435A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-05.BarraksWars", "03.BarraksWars\03-05.BarraksWars.csproj", "{86B5EBF0-65F6-4EC4-9C65-EC5DA8AD63A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-05.BarraksWars", "03-05.BarraksWars\03-05.BarraksWars.csproj", "{86B5EBF0-65F6-4EC4-9C65-EC5DA8AD63A8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TrafficLights", "06.TrafficLights\06.TrafficLights.csproj", "{DDC75879-8D2D-4225-AC42-DEB9537EB662}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-08.InfernoInfinity", "07.InfernoInfinity\07-08.InfernoInfinity.csproj", "{A65B5CB7-C601-4190-9ACA-3DB91B437D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-08.InfernoInfinity", "07-08.InfernoInfinity\07-08.InfernoInfinity.csproj", "{A65B5CB7-C601-4190-9ACA-3DB91B437D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
